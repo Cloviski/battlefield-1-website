@@ -1,0 +1,130 @@
+@import url('https://fonts.cdnfonts.com/css/futura-pt');
+
+#contact {
+    padding: 20px 0;
+    font-family: 'Futura PT', sans-serif;
+    background: linear-gradient(transparent, black), url('https://images.alphacoders.com/800/800140.jpg') no-repeat center bottom fixed;
+    height: 1080px;
+    background-size: cover;
+}
+
+.contact-container {
+    max-width: 1018px;
+    margin: 200px auto;
+    padding: 0 12px;
+    position: relative;
+    height: 100%;
+    background: none;
+}
+
+.logo-company {
+    width: 100%;
+    background: none;
+}
+
+.dicelogo {
+    height: 98px;
+    background: none;
+}
+
+h2 {
+    margin-top: 2px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Futura PT', sans-serif;
+    display: flex;
+    justify-content: center;
+    background: none;
+    color: #fff;
+}
+
+.dicename {
+    color: #fff;
+    font-weight: 500;
+}
+
+form {
+    width: 650px;
+    max-width: 100%;
+    margin: 0 auto;
+    background: none;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+    background: none;
+}
+
+.form-item {
+    margin: 12px;
+    width: 100%;
+    background: none;
+}
+
+.form-item:first-child {
+    margin-left: 0;
+}
+
+.form-item:last-child {
+    margin-right: 0;
+}
+
+.form-text {
+    font-family: 'Futura PT', sans-serif;
+    font-size: 18pt;
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background: rgba(0,0,0,0.5);
+    border: none;
+    padding: 15px;
+    color: #a4a5af;
+}
+
+textarea {
+    height: 205px;
+    max-height: 205px;
+    width: 100%;
+    margin: 12px 0;
+}
+
+.form-itemarea {
+    margin: 0;
+    width: 100%;
+    background: none;
+}
+
+.form-itemsubmit {
+    display: flex;
+    justify-content: center;
+    background: none;
+}
+
+input[type='submit'] {
+    width: auto;
+    height: 60px;
+    background-color: #ff6600;
+    color: #fff;
+    padding: 8px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    outline: none;
+    margin-top: 25px;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    opacity: 0.85;
+}
+
+#footer-contact {
+    margin-top: 0;
+}

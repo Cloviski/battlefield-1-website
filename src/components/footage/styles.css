@@ -1,0 +1,97 @@
+@import url('https://fonts.cdnfonts.com/css/futura-pt');
+
+.maps-conteiner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.maps-content {
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 40px;
+}
+
+.maps {
+        width: 100%;
+        height: 250px;
+        background-size: cover;
+        background-position: 50% 50%;
+        cursor: pointer;
+        transition: 1s;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        padding: 0 0 20px 10px;
+        color: #fff;
+        font-size: 41px;
+        font-family: 'Futura PT', sans-serif; 
+        font-weight: 375; 
+}
+
+.maps:hover {
+    transform: scale(1.02);
+}
+
+
+.footage-1 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/common/mapsmodes-05-suezcanal2-web.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-2 {
+    background-image: url('https://i.pinimg.com/originals/e5/e8/a2/e5e8a2f08f93aa8329b12e3dd34edf46.jpg');
+}
+
+.footage-3 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/legacy/ea/battlefield-portal/news/2018/mar/BF1_SCREEN_01_WEB.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-4 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/01/AS_StQuentinScar01_WEB.jpg.adapt.crop191x100.628p.jpg');
+}
+
+.footage-5 {
+    background-image: url('https://cdn.wccftech.com/wp-content/uploads/2016/12/Battlefield-1-Giants-Shadow-gameplay.jpg');
+}
+
+.footage-6 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/03/Reveal4_EVER-CHANGING_BATTLE_WEB.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-7 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/02/AS_FaoFortress03.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-8 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/03/MapsModes_01_BallroomBlitz.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-9 {
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/004/108/823/large/oscar-johansson-oscarjohansson-04.jpg?1480434984');
+}
+
+.footage-10 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/legacy/ea/battlefield-portal/news/2018/mar/BF1_forest_WM_WEB.jpg.adapt.crop16x9.1455w.jpg');
+}
+
+.footage-11 {
+    background-image: url('https://www.gamereactor.eu/media/55/newmapprise_2085523b.jpg');
+}
+
+.footage-12 {
+    background-image: url('https://media.contentapi.ea.com/content/dam/bf/common/shoveltown-shot1-alleyway-logo-web.jpg.adapt.crop16x9.320w.jpg');
+}
+
+@media(max-width: 768px){
+    .maps-content {
+        grid-template-columns: 1fr;
+        width: 90%;
+    }
+
+    .maps {
+        height: 190px;
+    }
+}
