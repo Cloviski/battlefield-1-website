@@ -29,11 +29,3 @@ function Header() {
 
 
 export default Header;
-
-//All inside a return will be visual
-
-//<li onClick={() => navigate('contact')}>Login</li>. A form to do a navigation
-
-// PropTypes helps manage props and components. Like TypeScript
-
-// memo - It's used to export on other way
