@@ -8,20 +8,17 @@ header {
     z-index: 2;
     height: 90px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     background-color: black;
 }
 
 nav {
     width: 60%;
-    padding-right: 1000px;
 }
 
 ul {
     width: 100%;
     display: flex;
-    justify-content: space-between;
 }
 
 li {
@@ -33,6 +30,7 @@ li {
     font-size: 19px;
     font-weight: 500;
     text-decoration: none;
+    padding-right: 30px;
 }    
 
 li:hover {
@@ -53,5 +51,9 @@ li:hover {
         display: none;
         width: 100%;
         padding-right: 0;
+    }
+
+    header {
+        justify-content: space-around;
     }
 }
