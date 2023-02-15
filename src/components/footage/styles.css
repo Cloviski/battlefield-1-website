@@ -38,51 +38,51 @@
 
 
 .footage-1 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/common/mapsmodes-05-suezcanal2-web.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/suez.jpg');
 }
 
 .footage-2 {
-    background-image: url('https://i.pinimg.com/originals/e5/e8/a2/e5e8a2f08f93aa8329b12e3dd34edf46.jpg');
+    background-image: url('../../assets/sinaidesert.jpg');
 }
 
 .footage-3 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/legacy/ea/battlefield-portal/news/2018/mar/BF1_SCREEN_01_WEB.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/montegrappa.jpg');
 }
 
 .footage-4 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/01/AS_StQuentinScar01_WEB.jpg.adapt.crop191x100.628p.jpg');
+    background-image: url('../../assets/stquentin.jpg');
 }
 
 .footage-5 {
-    background-image: url('https://cdn.wccftech.com/wp-content/uploads/2016/12/Battlefield-1-Giants-Shadow-gameplay.jpg');
+    background-image: url('../../assets/giantsshadow.jpg');
 }
 
 .footage-6 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/03/Reveal4_EVER-CHANGING_BATTLE_WEB.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/giantsshadow.jpg');
 }
 
 .footage-7 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/02/AS_FaoFortress03.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/empiressedge.jpg');
 }
 
 .footage-8 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/images/2018/03/MapsModes_01_BallroomBlitz.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/ballzroomblitz.jpg');
 }
 
 .footage-9 {
-    background-image: url('https://cdnb.artstation.com/p/assets/images/images/004/108/823/large/oscar-johansson-oscarjohansson-04.jpg?1480434984');
+    background-image: url('../../assets/amiens.jpg');
 }
 
 .footage-10 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/legacy/ea/battlefield-portal/news/2018/mar/BF1_forest_WM_WEB.jpg.adapt.crop16x9.1455w.jpg');
+    background-image: url('../../assets/argonneforest.jpg');
 }
 
 .footage-11 {
-    background-image: url('https://www.gamereactor.eu/media/55/newmapprise_2085523b.jpg');
+    background-image: url('../../assets/nivellenights.jpg');
 }
 
 .footage-12 {
-    background-image: url('https://media.contentapi.ea.com/content/dam/bf/common/shoveltown-shot1-alleyway-logo-web.jpg.adapt.crop16x9.320w.jpg');
+    background-image: url('../../assets/prisedetahure.jpg');
 }
 
 @media(max-width: 768px){
