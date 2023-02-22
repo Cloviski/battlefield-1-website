@@ -14,14 +14,14 @@ function Form() {
                         <form id="SupportForm" name="SupportForm" className="support-form" action="/" method="POST">
                             <div className="line">
                                 <div className="form-item">
-                                    <input data-validation="[NOTEMPTY]" id="name" name="name" className="form-text" size="20" maxlength="400" type="text" value="" placeholder="Name"/>
+                                    <input id="name" name="name" className="form-text" type="text" value="" placeholder="Name"/>
                                 </div>
                                 <div className="form-item">
-                                    <input data-validation="[NOTEMPTY, EMAIL]" id="email" name="email" className="form-text" size="20" maxlength="400" type="text" value="" placeholder="Email"/>
+                                    <input id="email" name="email" className="form-text" type="text" value="" placeholder="Email"/>
                                 </div>
                             </div>
                             <div className="form-itemarea">
-                                <textarea data-validation="[NOTEMPTY]" id="message" name="message" className="form-text" cols="40" rows="4" placeholder="Message"></textarea>
+                                <textarea id="message" name="message" className="form-text" placeholder="Message"></textarea>
                             </div>
                             <div className="form-itemsubmit"> 
                                 <input id="submitButton" name="submitButton" className="form-submit button" value="Submit message" type="submit"/>
