@@ -10,7 +10,7 @@ function Photos(){
         <>
             <Header />
             <div className='banner-pictures'>
-                <h1 className='text pictures-1'>FOOTAGE - MAPS</h1>
+                <h1 className='text pictures-1'>FOOTAGE</h1>
             </div>
             <Maps />
             <Footer />

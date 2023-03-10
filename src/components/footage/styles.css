@@ -87,11 +87,17 @@
 
 @media(max-width: 768px){
     .maps-content {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
         width: 90%;
     }
 
     .maps {
         height: 190px;
+    }
+}
+
+@media(max-width: 480px){
+    .maps-content {
+        grid-template-columns: 1fr;
     }
 }

@@ -11,7 +11,7 @@
     justify-content: center;
     margin-top: 50px;
     background-color: black;
-
+    position: relative;
 }
 
 .dlcs-conteiner {
@@ -80,7 +80,13 @@
     }
 
     .cards-content {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
         width: 90%;
+    }
+}
+
+@media(max-width: 480px){
+    .cards-content {
+        grid-template-columns: 1fr;
     }
 }
