@@ -1,19 +1,39 @@
-# Getting Started with Create React App
+# Battlefield 1 Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Battlefield 1 website project is powered by modern tech stack, including React and JavaScript, ensuring a robust frontend. Utilizing CSS for flexbox and styling. Application fully responsive, across various devices. My project is [here](https://lnkd.in/dbXun9gV).
 
-## Available Scripts
+### Technologies
 
-In the project directory, you can run:
+React, JavaScript, CSS.
 
-### `npm start`
+## Prerequisites
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Before you begin, ensure you have met the following requirements:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Node.js: Make sure you have Node.js installed on your system. You can download it [here](https://nodejs.org/).
 
-### `Why was made?`
+- Git: Make sure you have Git to clone my project. You can download it [here](https://git-scm.com/).
 
-This site with Battlefield 1 theme was made to show my skills using React, such as componentization, using JSX as primary language to make modern interface.
+## Getting Started
+
+To get started with the Battlefield 1 website, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+
+`https://github.com/Cloviski/battlefield-1-website.git`
+
+2. Install the project dependencies:
+
+`npm install`
+
+3. Start the development server:
+
+`npm start`
+
+4. Open your web browser and visit http://localhost:4000 to access the YouTube Replica application.
+
+## Feedback and Contributions
+
+We welcome feedback, bug reports, and contributions. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+
