@@ -4,7 +4,7 @@ This Battlefield 1 website project is powered by modern tech stack, including Re
 
 ### Technologies
 
-React, JavaScript, CSS.
+React, JavaScript, CSS, React Router (useNavigate).
 
 ## Prerequisites
 
