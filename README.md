@@ -10,8 +10,6 @@ React, JavaScript, CSS.
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js: Make sure you have Node.js installed on your system. You can download it [here](https://nodejs.org/).
-
 - Git: Make sure you have Git to clone my project. You can download it [here](https://git-scm.com/).
 
 ## Getting Started
