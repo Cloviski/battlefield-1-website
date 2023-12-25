@@ -1,13 +1,14 @@
 .banner-menu {
-    background-image: linear-gradient(transparent, black), url('https://images2.alphacoders.com/706/706162.jpg');
-    width: 100%;
-    background-position: 50% 50%;
-    background-size: cover;
-    height: 600px;
+  background-image: linear-gradient(transparent, black),
+    url("https://images2.alphacoders.com/706/706162.jpg");
+  width: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 600px;
 }
 
-@media(max-width: 768px){
-    .banner-menu {
-        background-position: 46%;
-    }
+@media (max-width: 768px) {
+  .banner-menu {
+    background-position: 46%;
+  }
 }
